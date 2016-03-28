@@ -1,0 +1,188 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09449 1052.3622"
+   id="Layer_1"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="template.svg">
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="97.400497"
+     y="36.452358"
+     id="text4240"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4242"
+       x="97.400497"
+       y="36.452358"
+       style="font-size:30px">Open the XML editor using </tspan><tspan
+       sodipodi:role="line"
+       x="97.400497"
+       y="73.952362"
+       id="tspan4244"
+       style="font-size:30px">shift + ctrl + x.  The SVG ID</tspan><tspan
+       sodipodi:role="line"
+       x="97.400497"
+       y="111.45236"
+       id="tspan4246"
+       style="font-size:30px">should be Layer_1  (first line).  </tspan></text>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="362.60875"
+     inkscape:cy="296.08735"
+     inkscape:document-units="px"
+     inkscape:current-layer="Layer_1"
+     showgrid="false"
+     inkscape:window-width="1500"
+     inkscape:window-height="1316"
+     inkscape:window-x="3"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="207.25919"
+       y="208.04594"
+       id="text4172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="207.25919"
+         y="208.04594"
+         id="tspan4206"
+         style="font-size:30px">This object has the  <tspan
+   style="-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4271">ID</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="207.25919"
+         y="245.54594"
+         id="tspan4217"
+         style="font-size:30px">HAO_0000101 and the <tspan
+   style="-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4273">class</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="207.25919"
+         y="283.04596"
+         style="font-size:30px"
+         id="tspan4232">bodypart. Change these </tspan><tspan
+         sodipodi:role="line"
+         x="207.25919"
+         y="320.54596"
+         id="tspan4223"
+         style="font-size:30px">attributes using the XML editor </tspan><tspan
+         sodipodi:role="line"
+         x="207.25919"
+         y="358.04596"
+         id="tspan4219"
+         style="font-size:30px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.56768"
+       y="440.77768"
+       id="text4275"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4277"
+         x="47.56768"
+         y="440.77768">Place your image using import</tspan></text>
+    <image
+       sodipodi:absref="/Users/jolearra-gigapan/Desktop/FullMontage.jpg"
+       xlink:href="FullMontage.jpg"
+       width="587.00629"
+       height="229.93335"
+       preserveAspectRatio="none"
+       id="image4341"
+       x="58.383537"
+       y="472.35837" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4344"
+       width="80"
+       height="95"
+       x="93.642548"
+       y="185.46237" />
+    <g
+       id="HAO_0000101"
+       class="bodypart"
+       transform="translate(5.6628195,-238.61072)">
+      <image
+         width="80"
+         height="95"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABfCAYAAAB/R0B4AAAABHNCSVQICAgIfAhkiAAAAOxJREFU
+eJzt0FEJgFAAwECfmMESdrSGncwkaAf3IcJdgrFxnNc98dr8dcDfGRgZGBkYGRgZGBkYGRgZGBkY
+GRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZ
+GBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkY
+GRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGC3bOvav
+I/7sAdmsBNxHfOOSAAAAAElFTkSuQmCC
+"
+         id="image4169"
+         x="87.979729"
+         y="424.07309" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.982307"
+       y="767.20453"
+       id="text4365"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4367"
+         x="72.982307"
+         y="767.20453">Make sure the same image is</tspan><tspan
+         sodipodi:role="line"
+         x="72.982307"
+         y="817.20453"
+         id="tspan4369">added to your images folder</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="111.35444"
+     y="960.57001"
+     id="text4375"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4377"
+       x="111.35444"
+       y="960.57001">Remove instructions </tspan><tspan
+       sodipodi:role="line"
+       x="111.35444"
+       y="1010.57"
+       id="tspan4379">before uploading</tspan></text>
+</svg>
